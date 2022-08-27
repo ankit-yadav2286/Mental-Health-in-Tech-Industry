@@ -80,6 +80,7 @@ This Project includes 1 jupyter notebook and 1 .docx File of Presentation.
 # Executable Files
 
 https://github.com/ankit-yadav2286/Mental-Health-in-Tech-Industry/blob/main/Mental%20Health%20Problem%20in%20Tech%20Industry-Copy1.ipynb- Includes EDA and all Algorithms which are used in this project.
+
 https://github.com/ankit-yadav2286/Mental-Health-in-Tech-Industry/blob/main/Mental%20Health%20In%20Tech%20Industry.docx - includes pdf of the presentation of the project.
 
 
